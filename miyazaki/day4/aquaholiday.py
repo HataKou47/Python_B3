@@ -1,6 +1,6 @@
 import sys
 import datetime as dt
-from datetime import date
+# from datetime import date
 from database import session
 from tables import Holiday
 
